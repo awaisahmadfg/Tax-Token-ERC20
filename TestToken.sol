@@ -510,7 +510,7 @@ contract ERC20 is Context, IERC20, IERC20Metadata {
     }
 }
 
-contract TestToken is ERC20, Ownable {
+contract BuySellTestToken is ERC20, Ownable {
 
     // Address List
 
